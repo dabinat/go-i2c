@@ -10,7 +10,6 @@
 package i2c
 
 import (
-	"encoding/hex"
 	"fmt"
 	"os"
 	"syscall"
